@@ -18,10 +18,11 @@
             android:layout_marginBottom="24dp"
             android:autoText="false"
             android:background="@drawable/shape"
-            android:backgroundTint="#FFFFFF"
+            android:backgroundTint="#FFB5B5B5"
             android:drawableLeft="@drawable/mail"
             android:ems="12"
             android:gravity="center"
+            android:hint="Correo"
             android:inputType="textEmailAddress"
             app:layout_constraintBottom_toTopOf="@+id/password"
             app:layout_constraintEnd_toEndOf="parent"
@@ -33,10 +34,11 @@
             android:layout_height="38dp"
             android:layout_marginBottom="245dp"
             android:background="@drawable/shape"
-            android:backgroundTint="#FFFFFFFF"
+            android:backgroundTint="#B5B5B5"
             android:drawableLeft="@drawable/password"
             android:ems="12"
             android:gravity="center"
+            android:hint="password"
             android:inputType="textPassword"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -105,7 +107,6 @@
             android:layout_height="62dp"
             android:layout_marginBottom="160dp"
             android:background="@drawable/shape"
-            android:backgroundTint="#000000"
             android:bottomRightRadius="11dp"
             android:onClick="auth"
             android:text="registrar"
@@ -119,9 +120,10 @@
             android:layout_height="38dp"
             android:layout_marginBottom="24dp"
             android:background="@drawable/shape"
-            android:backgroundTint="#FFFFFFFF"
+            android:backgroundTint="#FFB5B5B5"
             android:ems="12"
             android:gravity="center"
+            android:hint="Nombre"
             android:inputType="textPersonName"
             app:layout_constraintBottom_toTopOf="@+id/email"
             app:layout_constraintEnd_toEndOf="parent"
@@ -131,7 +133,7 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/correo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
@@ -162,7 +164,7 @@
         android:textColor="#FFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/correo" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
