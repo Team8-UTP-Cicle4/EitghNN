@@ -12,7 +12,7 @@
         android:background="#5F88FF">
 
         <EditText
-            android:id="@+id/email"
+            android:id="@+id/email3"
             android:layout_width="wrap_content"
             android:layout_height="38dp"
             android:layout_marginBottom="24dp"
@@ -102,7 +102,7 @@
             app:srcCompat="@drawable/icon" />
 
         <Button
-            android:id="@+id/boton"
+            android:id="@+id/registrar"
             android:layout_width="228dp"
             android:layout_height="62dp"
             android:layout_marginBottom="160dp"
@@ -125,7 +125,7 @@
             android:gravity="center"
             android:hint="Nombre"
             android:inputType="textPersonName"
-            app:layout_constraintBottom_toTopOf="@+id/email"
+            app:layout_constraintBottom_toTopOf="@+id/email3"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             tools:contentDescription="hola" />
