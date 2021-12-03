@@ -3,11 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11196581196581197" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11196581196581197" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable/ic_menu_camera.xml" value="0.11196581196581197" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.11196581196581197" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.11196581196581197" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/drawable/side_nav_bar.xml" value="0.11196581196581197" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/activity_auth.xml" value="0.25" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/activity_principal.xml" value="0.1" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/app_bar_principal.xml" value="0.1" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/content_principal.xml" value="0.12051282051282051" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/fragment_sobre.xml" value="0.1" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/layout/nav_header_principal.xml" value="0.22" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/Proyecto/iLoveAuctionMovil/app/src/main/res/menu/principal.xml" value="0.33" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/iLoveAuctionMovil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19947916666666668" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/iLoveAuctionMovil/app/src/main/res/drawable/shape.xml" value="0.1296875" />
         <entry key="..\:/Alexander Torres/Documents/Talento TI/Ciclo 4/iLoveAuctionMovil/app/src/main/res/drawable/shape_swipe.xml" value="0.19947916666666668" />

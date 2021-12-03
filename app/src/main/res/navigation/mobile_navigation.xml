@@ -22,4 +22,9 @@
         android:name="com.utp.iloveauctionmovil.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/sobre"
+        android:name="com.utp.iloveauctionmovil.sobre"
+        android:label="fragment_sobre"
+        tools:layout="@layout/fragment_sobre" />
 </navigation>
