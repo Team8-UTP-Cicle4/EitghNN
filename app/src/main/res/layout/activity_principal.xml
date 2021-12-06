@@ -13,7 +13,8 @@
         layout="@layout/app_bar_principal"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:background="#5F88FF" />
+        android:background="#5F88FF"
+        android:onClick="Principal" />
 
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/nav_view"
@@ -24,4 +25,5 @@
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header_principal"
         app:menu="@menu/activity_main_drawer" />
+
 </androidx.drawerlayout.widget.DrawerLayout>

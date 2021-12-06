@@ -31,5 +31,5 @@
         android:id="@+id/textViewCorreo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Correo" />
+        android:text="james1999torres@gmail.com" />
 </LinearLayout>

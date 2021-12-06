@@ -1,9 +1,12 @@
 package com.utp.iloveauctionmovil
 
+import android.content.Intent
 import android.os.Bundle
 import android.provider.ContactsContract
 import android.view.ActionProvider
 import android.view.Menu
+import android.view.View
+import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import com.google.android.material.snackbar.Snackbar
@@ -61,6 +64,13 @@ class PrincipalActivity : AppCompatActivity() {
             onBackPressed()
         }
     }*/
+
+
+    fun Principal(view: View) {
+
+        val intent2 = Intent(this, Subasta::class.java)
+        startActivity(intent2)
+    }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.

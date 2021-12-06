@@ -1,14 +1,18 @@
 package com.utp.iloveauctionmovil.ui.home
-
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
+import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
+import com.utp.iloveauctionmovil.PrincipalActivity
 import com.utp.iloveauctionmovil.R
+import com.utp.iloveauctionmovil.Subasta
 import com.utp.iloveauctionmovil.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
@@ -21,6 +25,7 @@ class HomeFragment : Fragment() {
     private val binding get() = _binding!!
 
     override fun onCreateView(
+
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -38,8 +43,11 @@ class HomeFragment : Fragment() {
         return root
     }
 
+
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
     }
+
+
 }
